@@ -1,0 +1,23 @@
+/* * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} */
+
+body {
+  background-color: #000;
+}
+
+#page-title {
+  color: rgb(32, 173, 10);
+}
+  .row button {
+    width: 170px;
+    background-color: aliceblue;
+    color: #000;
+    height: 50px;
+  }
+
+  #pokemonDetails img {
+    width: 70%;
+  }
